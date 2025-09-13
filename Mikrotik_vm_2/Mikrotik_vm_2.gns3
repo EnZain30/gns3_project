@@ -79,6 +79,15 @@
                 "x": 266,
                 "y": -20,
                 "z": 2
+            },
+            {
+                "drawing_id": "17328ab0-2405-471d-afd3-7569a73ecf60",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"95\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">web browser</text></svg>",
+                "x": -228,
+                "y": 46,
+                "z": 2
             }
         ],
         "links": [
@@ -444,8 +453,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -10,
-                "y": 110,
+                "x": -20,
+                "y": 116,
                 "z": 1
             },
             {
@@ -570,13 +579,13 @@
                 "symbol": ":/symbols/vbox_guest.svg",
                 "template_id": "81778b43-c489-46b2-a6a3-6f1504f32075",
                 "width": 65,
-                "x": -190,
-                "y": 102,
+                "x": -218,
+                "y": 94,
                 "z": 1
             },
             {
                 "compute_id": "vm",
-                "console": 5001,
+                "console": 5006,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
