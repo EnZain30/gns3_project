@@ -67,8 +67,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"24\" width=\"105\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">192.168.2.1/24</text></svg>",
-                "x": -232,
-                "y": -50,
+                "x": -249,
+                "y": -59,
                 "z": 2
             },
             {
@@ -531,8 +531,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -312,
-                "y": -16,
+                "x": -335,
+                "y": -58,
                 "z": 1
             },
             {
@@ -636,8 +636,8 @@
                 "symbol": ":/symbols/classic/router_firewall.svg",
                 "template_id": "828e47fb-1c2b-4a9d-8183-00faa812141e",
                 "width": 66,
-                "x": -56,
-                "y": -58,
+                "x": -47,
+                "y": -64,
                 "z": 1
             }
         ]
