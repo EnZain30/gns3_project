@@ -58,8 +58,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"24\" width=\"70\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">SERVER</text></svg>",
-                "x": -316,
-                "y": -70,
+                "x": -324,
+                "y": -99,
                 "z": 2
             },
             {
@@ -85,8 +85,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"24\" width=\"95\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">web browser</text></svg>",
-                "x": -228,
-                "y": 46,
+                "x": -236,
+                "y": 16,
                 "z": 2
             }
         ],
@@ -455,7 +455,7 @@
                 "width": 65,
                 "x": -20,
                 "y": 116,
-                "z": 1
+                "z": -4
             },
             {
                 "compute_id": "vm",
@@ -579,8 +579,8 @@
                 "symbol": ":/symbols/vbox_guest.svg",
                 "template_id": "81778b43-c489-46b2-a6a3-6f1504f32075",
                 "width": 65,
-                "x": -218,
-                "y": 94,
+                "x": -228,
+                "y": 68,
                 "z": 1
             },
             {
@@ -654,5 +654,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.6",
-    "zoom": 50
+    "zoom": 71
 }
